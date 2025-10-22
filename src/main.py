@@ -7273,8 +7273,6 @@ def autonomous():
     brain.screen.print("autonomous code")
     # place automonous code here
 
-
-
 def user_control():
     pass
 
